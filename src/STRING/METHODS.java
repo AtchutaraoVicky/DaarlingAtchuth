@@ -77,6 +77,9 @@ public static void main(String[] args) {
 	StringBuffer j= new StringBuffer("hyderabad");
 	StringBuffer j1= new StringBuffer("hyderabad");
 	System.out.println(j.reverse());
+
+
+	System.out.println("hiii hello");
 	
 	
 	
